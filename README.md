@@ -1,5 +1,5 @@
 # PDNet
-for RGBD salient object detection
+For RGBD salient object detection, the paper has accepted at icme2018 and the paper link is [here](https://arxiv.org/abs/1803.08636)
 
 
 ### The pre_trained model
@@ -21,3 +21,6 @@ Download the pre-trained model and the test picture, run
 ```
 python test.py
 ```
+
+### The results
+![result](pic/results.jpg)
