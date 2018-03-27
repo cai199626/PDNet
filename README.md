@@ -37,10 +37,15 @@ Please cite as:
 PDNet: Prior-Model Guided Depth-enhanced Network for Salient Object Detection. Chunbiao Zhu, Xing Cai, Kan Huang, Thomas.H Li and Ge Li IEEE International Conference on Multimedia and Expo (ICME) 2018.
 or
 ```
-@INPROCEEDINGS{PDNet2018, 
-author={Chunbiao, Zhu and Xing, Cai and Kan, Huang and Thomas.H, Li and Ge, Li }, 
-booktitle={2018 International Conference on Multimedia and Expo}, 
-title={PDNet: Prior-model Guided Depth-enhanced Network for Salient Object Detection}, 
-year={2017}, 
+@INPROCEEDINGS{PDNet2018,
+author=
+"Zhu, Chunbiao
+and Cai, Xing
+and Kan, Huang
+and Thomas.H, Li
+and Ge, Li",
+booktitle={2018 International Conference on Multimedia and Expo},
+title={PDNet: Prior-model Guided Depth-enhanced Network for Salient Object Detection},
+year={2018},
 }
 ```
