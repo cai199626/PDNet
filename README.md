@@ -33,6 +33,7 @@ python test.py
 
 If you use this code.
 Please cite as:
+
 PDNet: Prior-Model Guided Depth-enhanced Network for Salient Object Detection. Chunbiao Zhu, Xing Cai, Kan Huang, Thomas.H Li and Ge Li IEEE International Conference on Multimedia and Expo (ICME) 2018.
 or
 ```
