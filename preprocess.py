@@ -11,8 +11,8 @@ import random
 #SALCON  10k eye fix
 #PIC_PATH = '/home/zcb/datasets/SALCON/images/train_image/train_images/'
 #SALMAP_PATH = '/home/zcb/datasets/SALCON/train/train_masks/'
-PIC_PATH = '/home/cx/keras_saliency/datasets/DUTS-TR/DUTS-TR-Image/'
-SALMAP_PATH = '/home/cx/keras_saliency/datasets/DUTS-TR/DUTS-TR-Mask/'
+PIC_PATH = '/home/czhu/Desktop/PDNet/PDNet/Img/'
+SALMAP_PATH = '/home/czhu/Desktop/PDNet/PDNet/Img/'
 
 VAL_PATH = '/home/cx/keras_saliency/datasets/DUTS-TE/DUTS-TE-Image/'
 VALMASK_PATH = '/home/cx/keras_saliency/datasets/DUTS-TE/DUTS-TE-Mask/'
