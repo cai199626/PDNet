@@ -4,10 +4,10 @@ For RGBD salient object detection, the paper has benn accepted at icme2018 and t
 
 ### The pre_trained model
 Baidu Yun: https://pan.baidu.com/s/1rGXSTxtU8iNQa7FPGP83Wg password: 9hbq
+
 with deep channel: https://pan.baidu.com/s/1Uu03Z_1R6_9BpSZfOzK31g password: cpe8
 
-modify the `test.py` file.
-(I am sorry for forgetting that)
+modify the `test.py` file.(I am sorry for forgetting that)
 
 Google drive: https://drive.google.com/open?id=18yXaBAeG_6qFuk4wyViSWiEXog5ctabM
 
