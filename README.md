@@ -50,6 +50,6 @@ and Thomas.H, Li
 and Ge, Li",
 booktitle={2018 International Conference on Multimedia and Expo},
 title={PDNet: Prior-model Guided Depth-enhanced Network for Salient Object Detection},
-year={2018},
+year={2019},
 }
 ```
